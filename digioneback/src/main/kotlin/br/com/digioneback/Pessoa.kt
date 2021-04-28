@@ -3,6 +3,7 @@ package br.com.digioneback
 class Pessoa {
     var nome: String = "Arthur"
     var cpf: String = "111.111.111-11"
+    private set
 
     inner class Endenreco {
         var rua: String = "Rua das flores"
