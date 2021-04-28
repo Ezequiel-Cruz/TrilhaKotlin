@@ -5,16 +5,13 @@ class Pessoa {
     var cpf: String = "111.111.111-11"
     private set
 
-    inner class Endenreco {
-        var rua: String = "Rua das flores"
-    }
+    constructor()
+
+    fun pessoaInfo() = "$nome e $cpf"
 }
 
 fun main() {
     var pessoas = Pessoa()
 
-    println(pessoas.nome)
-    println(pessoas.cpf)
-
-    println(pessoas.Endenreco().rua)
+    println(pessoas.pessoaInfo())
 }
