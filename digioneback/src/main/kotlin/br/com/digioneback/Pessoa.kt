@@ -7,11 +7,11 @@ class Pessoa {
 
     constructor()
 
-    fun pessoaInfo() = "$nome e $cpf"
+    fun info() = "$nome e $cpf"
 }
 
 fun main() {
     var pessoas = Pessoa()
 
-    println(pessoas.pessoaInfo())
+    println(pessoas.info())
 }
