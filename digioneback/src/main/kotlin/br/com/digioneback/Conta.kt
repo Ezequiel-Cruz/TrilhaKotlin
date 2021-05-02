@@ -5,13 +5,13 @@ import java.math.BigDecimal
 class Conta (
     var agencia: String,
     var numero: String,
-    var saldo: BigDecimal
+    var saldo: Double
 ){
-    fun deposito(valor: BigDecimal) {
+    fun deposito(valor: Double) {
 
     }
 
-    fun saque(valor: BigDecimal) {
+    fun saque(valor: Double) {
 
     }
 }
