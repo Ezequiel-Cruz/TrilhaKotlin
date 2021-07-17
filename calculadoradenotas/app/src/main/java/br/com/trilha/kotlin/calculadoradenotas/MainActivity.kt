@@ -1,5 +1,6 @@
 package br.com.trilha.kotlin.calculadoradenotas
 
+import android.graphics.Color
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
@@ -20,8 +21,10 @@ class MainActivity : AppCompatActivity() {
 
             if(media >= 6 && faltas <=10) {
                 resultado.setText("Aluno foi aprovado" + "\n" + "Nota Final:" +media+ "\n"+ "Faltas:"+faltas)
+                resultado.setTextColor(Color.GREEN)
             } else {
                 resultado.setText("Aluno foi reprovado" + "\n" + "Nota Final:" +media+ "\n"+ "Faltas:"+faltas)
+                resultado.setTextColor(Color.RED)
             }
 
         }
