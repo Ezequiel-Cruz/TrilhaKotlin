@@ -7,6 +7,7 @@ fun main() {
     nomes.forEach {
         println(it)
     }
+    println("-------------------")
 
     val nomes2 = Array(3) {""}
 
@@ -17,5 +18,5 @@ fun main() {
     nomes2.forEach {
         println(it)
     }
-}
 
+}

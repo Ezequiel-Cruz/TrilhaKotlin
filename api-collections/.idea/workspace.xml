@@ -4,42 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0b3974-2410-4ef0-a536-42d01b6e0826" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-collections_/mainModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_5_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/trilhakotlin/collections/TesteIntArray.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculadoradenotas/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadoradenotas/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculadoradenotas/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadoradenotas/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculadoradenotas/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadoradenotas/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cc0b3974-2410-4ef0-a536-42d01b6e0826" name="Changes" comment="intArrayOf &amp;&amp; arrayOf">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteOperacaoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteArrayString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteArrayString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteDoubleArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteDoubleArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteIntArrayOf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/trilhakotlin/collections/TesteIntArrayOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/mainModule.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/mainModule.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteArrayStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteArrayStringKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteDoubleArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteDoubleArrayKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteIntArrayOfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/trilhakotlin/collections/TesteIntArrayOfKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -57,15 +44,23 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projetos\TrilhaKotlin\api-collections\src\main\kotlin\com\trilhakotlin\collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteIntArrayOfKt">
+  <component name="RunManager" selected="Kotlin.TesteOperacaoesKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.trilhakotlin.collections.TesteArrayStringKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trilhakotlin.collections.TesteDoubleArrayKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,8 +80,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteOperacaoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trilhakotlin.collections.TesteOperacaoesKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteOperacaoesKt" />
+        <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteIntArrayOfKt" />
         <item itemvalue="Kotlin.TesteIntArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
@@ -102,6 +106,21 @@
       <option name="presentableId" value="Default" />
       <updated>1630530315887</updated>
     </task>
+    <task id="LOCAL-00001" summary="intArrayOf &amp;&amp; arrayOf">
+      <created>1630530673558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630530673558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intArrayOf &amp;&amp; arrayOf">
+      <created>1630530748922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630530748922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +133,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intArrayOf &amp;&amp; arrayOf" />
+    <option name="LAST_COMMIT_MESSAGE" value="intArrayOf &amp;&amp; arrayOf" />
   </component>
 </project>
